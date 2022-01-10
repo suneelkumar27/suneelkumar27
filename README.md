@@ -4,6 +4,8 @@
 **suneelkumar27/suneelkumar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Language, Frameworks, IDEs & Opreating Systems
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
